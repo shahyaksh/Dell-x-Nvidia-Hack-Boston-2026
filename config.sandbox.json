@@ -1,0 +1,16 @@
+{
+  "mail_mode": "gmail",
+  "sender_email": "yakshshah170802@gmail.com",
+  "gmail_config": "/sandbox/hand/gmail_config.json",
+  "track_base_url": "https://international-apparatus-anderson-definitions.trycloudflare.com",
+  "demo_contacts": {
+    "champion": "capcool79@gmail.com",
+    "vp": "aatmajsalunke@gmail.com"
+  },
+  "allowlist": [
+    "capcool79@gmail.com",
+    "aatmajsalunke@gmail.com"
+  ],
+  "dashboard_user": "admin",
+  "dashboard_password": "DtAF0fPQ_Ox7lOsh"
+}
